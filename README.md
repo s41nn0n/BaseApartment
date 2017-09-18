@@ -5,3 +5,13 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ## Versions
 - Unity 2017.1.0p4
 - GVR Unity SDK v1.70.0
+
+##Time
+At least 6 Hours. Was not tracking to the exact detail
+
+##Enjoyed
+I really enjoyed the Camera, and Rotation of the Globe
+
+##Challenged
+I tried to get the camera working without using the pre-defined scripts.
+I gave up on this
