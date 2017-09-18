@@ -15,3 +15,6 @@ I really enjoyed the Camera, and Rotation of the Globe
 ##Challenged
 I tried to get the camera working without using the pre-defined scripts.
 I gave up on this
+
+##Reference
+I used an object or two from [http://u3d.as/3Ps](http://u3d.as/3Ps)
