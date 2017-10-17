@@ -20,18 +20,18 @@ AnimationClip:
         time: 0
         value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 6, z: 0}
         tangentMode: 0
       - serializedVersion: 2
         time: 1
-        value: {x: 0, y: 0.7866668, z: 0.7866668}
-        inSlope: {x: 0, y: 1.5600002, z: 1.5600002}
-        outSlope: {x: 0, y: 1.5600002, z: 1.5600002}
+        value: {x: 0, y: 6.098334, z: 0}
+        inSlope: {x: 0, y: 6.1949997, z: 0}
+        outSlope: {x: 0, y: 6.1949997, z: 0}
         tangentMode: 0
       - serializedVersion: 2
-        time: 30
+        time: 60
         value: {x: 0, y: 360, z: 360}
-        inSlope: {x: 0, y: 12, z: 12}
+        inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
       m_PreInfinity: 2
@@ -62,7 +62,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 30
+    m_StopTime: 60
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -107,14 +107,14 @@ AnimationClip:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        outSlope: 6
+        tangentMode: 69
       - serializedVersion: 2
-        time: 30
+        time: 60
         value: 360
-        inSlope: 12
+        inSlope: 0
         outSlope: 0
-        tangentMode: 5
+        tangentMode: 136
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -132,11 +132,17 @@ AnimationClip:
         outSlope: 0
         tangentMode: 136
       - serializedVersion: 2
-        time: 30
-        value: 360
-        inSlope: 12
+        time: 1
+        value: 0
+        inSlope: 0
         outSlope: 0
-        tangentMode: 5
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 60
+        value: 360
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
